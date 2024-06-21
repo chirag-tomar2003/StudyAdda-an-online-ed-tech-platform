@@ -1,4 +1,4 @@
-# studyadda Online Education Platform (MERN App) [Website Link](https://studyadda-frontend.vercel.app/)
+# studyadda Online Education Platform (MERN App) 
 
 ![Main Page](images/mainpage.png)
 
